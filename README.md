@@ -3,7 +3,7 @@
 This project was made by khairul kanters using ReactJs and API from https://api.covid19api.com/summary.
 Im using flag from www.countryflags.io
 
-![mern](https://raw.githubusercontent.com/khakans/coronavirus-api/master/UI%20Screenshot.png)
+![ui screenshot](https://raw.githubusercontent.com/khakans/coronavirus-api/master/UI%20Screenshot.png)
 
 ## Available Scripts
 
