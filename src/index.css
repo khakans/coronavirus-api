@@ -1,0 +1,15 @@
+.row.globaldata {
+    font-size: 20px;
+    font-weight: bold;
+}
+.row.maindata {
+    font-size: 13px;
+}
+.card-text {
+    margin-top: -5px;
+    margin-bottom: -5px;
+    font-weight: bold;
+}
+.box.row{
+    font-weight: bold;
+}
