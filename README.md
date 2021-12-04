@@ -1,7 +1,7 @@
 # Coronavirus API
 
 This project was made by khairul kanters using ReactJs and API from https://api.covid19api.com/summary.
-Im using flag from www.countryflags.io
+Im using flag from www.worldometers.info
 
 ![ui screenshot coronavkrus api](https://raw.githubusercontent.com/khakans/coronavirus-api/master/UI%20Screenshot.png)
 
