@@ -74,7 +74,7 @@ class Home extends Component{
                                 <p className="card-text">Total Recovered : {CountriesCovid19.TotalRecovered}</p>
                             </div>
                             <div className="col-sm-5">
-                                <img alt={CountriesCovid19.CountryCode + "flag"} style={{height: 100}} src={"https://www.countryflags.io/" + CountriesCovid19.CountryCode + "/flat/64.png"}/>
+                                <img alt={CountriesCovid19.Slug + "-flag"} style={{width: 100}} src={"https://www.worldometers.info/img/flags/" + (CountriesCovid19.CountryCode).toLowerCase() + "-flag.gif" }/>
                             </div>
                         </div>
                         </div>
